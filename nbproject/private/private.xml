@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Creme.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/recipientes/Prato.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Sopa.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/Sopa.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Agua.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/DezCentavos.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/display/Display.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/VinteeCincoCentavos.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/menu/Menu.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Acucar.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/recipientes/Recipiente.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/UmReal.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/cozinha/Cozinha.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/CafePreto.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/cartao/Cartao.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/CincoCentavos.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/coletores/ColetorMoeda.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/Moeda.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/CafeCremeAcucar.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/CafeAcucar.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/moedas/CinquentaCentavos.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/coletores/Coletor.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Cafe.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/ingredientes/Ingrediente.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/coletores/ColetorCartao.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/reservatorio/Reservatorio.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/CafeCreme.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/produtos/Produtos.java</file>
+            <file>file:/C:/Users/Fabricio/Desktop/Castoldi/CoffeeMachine/src/recipientes/Copo.java</file>
+        </group>
+    </open-files>
+</project-private>
